@@ -10,7 +10,7 @@ I am an engineering student deeply passionate about exploring the full lifecycle
 
 Skills: C++ / MERN Stack / NextJs / REST Api 
 
-- 🔭 I’m currently working on backend project. 
+-  I’m currently working on backend project. 
 
 
 
