@@ -1,16 +1,13 @@
-## Hi there 👋
+### Hey there, I am Siddhesh
+#### I am software engineering student exploring the new technologies.
+![I am software engineering exploring the new technologies.](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.adpng)
 
-<!--
-**siddw09/siddw09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am an engineering student deeply passionate about exploring the full lifecycle of software from high-level web applications down to low-level operating system internals. I thrive on continuously learning modern engineering technologies and understanding how complex systems function beneath the surface.
 
-Here are some ideas to get you started:
+Skills: MERN Stack / NextJs / REST Api 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on backend project. 
+
+
+
+
