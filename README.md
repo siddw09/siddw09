@@ -22,9 +22,6 @@ cooking | looking for problems | avgeek
 sid@archu:~$ ls stack/
 linux  c++  typescript  next.js  nest.js   python  
 
-sid@arch:~$ ./current_status.sh
-> Architecting full-stack web platforms.
-> Learning agentic workflows.
 
 sid@arch:~$ exit
 
