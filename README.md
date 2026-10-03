@@ -20,7 +20,7 @@ sid@arch:~$ cat bio.txt
 cooking | looking for problems | avgeek
 
 sid@archu:~$ ls stack/
-linux  c++  typescript  next.js  nest.js   python  
+linux  c++  typescript  next.js  nest.js   python fastapi 
 
 
 sid@arch:~$ exit
